@@ -1,0 +1,11 @@
+
+body{
+ background-image: url(https://img.wallpapersafari.com/desktop/1680/1050/61/78/iHvPVM.jpg);
+ /* background-size: cover; */
+  background-repeat: no-repeat;
+  max-width: 1000px;
+  max-height: 1000px;
+}
+form{
+  color: white;
+}
